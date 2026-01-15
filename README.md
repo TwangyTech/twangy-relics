@@ -1,1 +1,1 @@
-# twangyrelics
+# relics for wiki.twangytech.com
